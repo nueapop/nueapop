@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,git,docker,vite,firebase,mysql,postgres,mongo,figma,simulator" alt="tools-icons"/>
+    <img src="https://skillicons.dev/icons?i=gcp,aws,git,docker,vite,firebase,mysql,postgres,mongo,figma,bots" alt="tools-icons"/>
 </p>
 
 <p align="center">
