@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nueapop&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true" alt="profile-trophy"/>
-</p>
-
-<p align="center">
     <img src="https://skillicons.dev/icons?i=gcp,aws,git,docker,vite,firebase,mysql,postgres,mongo,figma,bots" alt="tools-icons"/>
 </p>
 
